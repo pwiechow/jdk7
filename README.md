@@ -1,4 +1,4 @@
-jdk8
+jdk7
 ====
 
 Oracle JDK 7 image
